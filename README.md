@@ -14,6 +14,9 @@
 
 <b>پست مربوط به این وب سرویس:</b> <a href='https://t.me/iNeoTeam/POSTID' target='_blank'>@iNeoTeam/POSTID</a>
 
+برای دریافت توکن دسترسی وب سرویس، از طریق لینک زیر اقدام به دریافت کنید.
+<a href='https://t.me/tmanagebot?start=dev'>T.me/TManageBot?start=dev</a>
+
 -------------------------
 
 # مثال ها:
