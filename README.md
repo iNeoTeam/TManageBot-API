@@ -12,7 +12,7 @@
 
 <b>آیدی کانال:</b> <a href='https://t.me/iNeoTeam' target='_blank'>@iNeoTeam</a>
 
-<b>پست مربوط به این وب سرویس:</b> <a href='https://t.me/iNeoTeam/POSTID' target='_blank'>@iNeoTeam/POSTID</a>
+<b>پست مربوط به این وب سرویس:</b> <a href='https://t.me/iNeoTeam/142' target='_blank'>@iNeoTeam/142</a>
 
 برای دریافت توکن دسترسی وب سرویس، از طریق لینک زیر اقدام به دریافت کنید.
 
