@@ -8,7 +8,7 @@
 # توضیحات:
 ## توضیحات بیشتر را میتوانید در کانال رسمی آی نئو بخوانید.
 
-این وب سرویس متصل به سایت <a href='https://telegram.org' target='_blank'>Telegram.org</a> میباشد.
+این وب سرویس متصل به سایت <a href='https://my.telegram.org' target='_blank'>My.Telegram.org</a> میباشد.
 
 <b>آیدی کانال:</b> <a href='https://t.me/iNeoTeam' target='_blank'>@iNeoTeam</a>
 
